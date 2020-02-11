@@ -4,7 +4,7 @@ application d'édition et de simulation des circuits logique combinatoires et s�
 
 ## Getting Started
 
-Pour ajouter un élément il suffit d'appuyer longtemps sur l’élément et de le glisser vers l’espace de travail pour le positionner (Drap & drop).
+Pour ajouter un élément il suffit d'appuyer longtemps sur l’élément et de le glisser vers l’espace de travail pour le positionner (Drap & drop).  
 
 ![Alt Text](https://github.com/k4der2rg/iSim/blob/master/Manuel/img/creer/drop.gif)
 
